@@ -1,0 +1,8 @@
+@import-normalize; /* bring in normalize.css styles */
+
+body {
+    background: linear-gradient(180deg,#8fa0d1,#1f1616);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
